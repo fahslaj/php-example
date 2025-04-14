@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 env:
-  NX_BRANCH: 'CI-Atomized'
+  NX_RUN_GROUP: 'CI-Atomized'
 
 jobs:
   main:

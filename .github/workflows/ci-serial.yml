@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 env:
-  NX_BRANCH: 'CI-Serial'
+  NX_RUN_GROUP: 'CI-Serial'
 
 jobs:
   main:
