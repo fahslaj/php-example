@@ -10,9 +10,6 @@ permissions:
   actions: read
   contents: read
 
-env:
-  NX_RUN_GROUP: 'CI-Atomized'
-
 jobs:
   main:
     runs-on: ubuntu-latest
